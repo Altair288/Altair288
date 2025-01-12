@@ -22,7 +22,7 @@
 
 ## 📊 GitHub 数据统计
 
-
+<img src="/github-metrics.svg" />
 
 <!-- metrics 基础资料 -->
 
