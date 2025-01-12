@@ -25,7 +25,7 @@
 
 
 <!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
+
 
 <!-- GitHub 数据统计 -->
 
