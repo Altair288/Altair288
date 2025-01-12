@@ -6,7 +6,6 @@
 
 ### (｡･∀･)ﾉﾞ嗨 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 <p>&emsp;&emsp;嗨，我是Altair288。</p>
 <p>&emsp;&emsp; 个人博客：<a href="https://share.altair288.eu.org/" target="_blank"> AltairのWebsite </a></p>
