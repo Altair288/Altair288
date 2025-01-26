@@ -31,8 +31,6 @@
 
 <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Altair288&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21theme=graywhite" /> 
 
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Altair288&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
-
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
