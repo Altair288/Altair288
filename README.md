@@ -1,3 +1,13 @@
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+      <p align="center">
+      <img  src="https://github-readme-stats.vercel.app/api?username=Altair288&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Altair288&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
+    </p>
+</div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+    </a>
+
   🙋 Hello
 
 <table>
@@ -31,12 +41,7 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Altair288&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altair288&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altair288&repo=convoychat" />
-</a>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
