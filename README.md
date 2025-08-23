@@ -9,7 +9,6 @@
 
 <p>&emsp;&emsp;嗨，我是Altair288。</p>
 <p>&emsp;&emsp; 个人博客：<a href="https://share.altair288.eu.org/" target="_blank"> AltairのWebsite </a></p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
@@ -32,7 +31,12 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Altair288&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altair288&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altair288&repo=convoychat" />
+</a>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
