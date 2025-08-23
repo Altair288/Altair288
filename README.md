@@ -29,7 +29,9 @@
 
 <!-- GitHub 数据统计 -->
 
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Altair288&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21theme=graywhite" /> 
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Altair288&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
